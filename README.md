@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis-of-Game-of-Thrones-Viewership-Trends
+# Data-Analysis-of-Game-of-Thrones-Viewership-Trends
 
 ## Project Overview
 This project analyzes Game of Thrones episode viewership trends using Python.
